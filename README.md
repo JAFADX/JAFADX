@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is  Javier Faúndez and I'm a future Full Stack Developer, from Chile.</p>
+<p align="left">My name is Javier Faúndez and I'm a future Full Stack Developer, from Chile.</p>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">📚 I'm currently learning Databases and Java<br>🎯 My goal  is to be a JAVA specialist<br>📫 How to reach me jafa.dx@gmail.com</p>
+<h3 align="left">📚 I'm currently learning Databases and Java<br><br>🎯 My goal is to be a JAVA specialist<br><br>📫 How to reach me jafa.dx@gmail.com</h3>
 
 ###
 
@@ -23,9 +23,18 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/moodle/moodle-original.svg" height="40" alt="moodle logo"  />
+</div>
+
+###
+
+<div align="left">
 </div>
 
 ###
